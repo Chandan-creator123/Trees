@@ -1,4 +1,5 @@
-#include<bits/std.c++a.out.h>ysing namespace std;
+#include<bits/std.c++a.out.h>
+using namespace std;
 #define ll long long
 
 
